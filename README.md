@@ -9,20 +9,15 @@ JupyterLab Notebook files list:
 
 Getting the data and cleaning:
 
-selenium_loudoun_parcel.ipynb
-	get parcel data
+selenium_loudoun_parcel.ipynb :get parcel data
 	
-selenium_loudoun_loop.ipynb
-	get tax payment data
+selenium_loudoun_loop.ipynb  :get tax payment data
 	
-Clean_Loudoun_taxdata.ipynb
-	clean the tax payment data
+Clean_Loudoun_taxdata.ipynb :clean the tax payment data
 	
-QC_Loudoun_taxdata.ipynb
-	#check the quality of the tax payment data
+QC_Loudoun_taxdata.ipynb :#check the quality of the tax payment data
 
-Loudoun_assessment_loop3.ipynb
-	get property assessment data
+Loudoun_assessment_loop3.ipynb :get property assessment data
 
 Data exploration and analysis:
 Loudoun_taxdata_numerical_explore.ipynb
