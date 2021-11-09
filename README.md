@@ -8,12 +8,16 @@ This project is still actively being worked on.
 JupyterLab Notebook files list:
 
 Getting the data and cleaning:
+
 selenium_loudoun_parcel.ipynb
 	get parcel data
+	
 selenium_loudoun_loop.ipynb
 	get tax payment data
+	
 Clean_Loudoun_taxdata.ipynb
 	clean the tax payment data
+	
 QC_Loudoun_taxdata.ipynb
 	#check the quality of the tax payment data
 
